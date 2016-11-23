@@ -3,6 +3,11 @@ hack tinker tanker
 have randm directories, password protect.
 have 1 dir that can be accessed, but is empty
 have hidden file in that dir.
+Hidden file is also psasword protected, but the passwords can be found by puzzle. 
+In the file is lots of passwords that are all encrypted (caesar cypher or something harder?) and are passwords for the other directories. 
+
+...
+
 start a python program
 python program doesnt work. They have to debug it.
 There is a complex set of conditionals with the different outcomes of launching missiles or don't. The bug is in there.
