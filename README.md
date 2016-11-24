@@ -19,4 +19,3 @@ this is the password for the root user
 The program to stop the missiles (from line 1) cannot be run unless they are in the root user
 the password given in line 2 is the password to the root user
 they log in to the root user and run the program 
-
